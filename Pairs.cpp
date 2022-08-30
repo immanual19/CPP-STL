@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  PairsAndVectors
+//  Pairs
 //
 //  Created by A Emmanual Sarker on 31/8/22.
 //  Copyright © 2022 A Emmanual Sarker. All rights reserved.
